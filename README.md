@@ -43,7 +43,7 @@ python3 qr_scanner.py
 
 ##  Applications
 
-* Autonomous robots (SAEV project)
+* Autonomous robots 
 * Warehouse automation
 * Smart navigation systems
 
