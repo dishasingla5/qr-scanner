@@ -11,7 +11,7 @@ from pyzbar.pyzbar import decode
 from urllib.parse import urlparse
 
 # ================= CONFIG =================
-USE_ROBOFLOW = False  # 🔥 Change to True to enable AI detection
+USE_ROBOFLOW = False  #  Change to True to enable AI detection
 
 ROBOFLOW_API_KEY = os.getenv("ROBOFLOW_API_KEY")
 ROBOFLOW_MODEL = "your-model-name"
